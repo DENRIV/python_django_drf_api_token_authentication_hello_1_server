@@ -7,18 +7,31 @@ python_django_drf_api_token_authentication_hello_1_server
 [Project Tree]
 
 manage.py
+
 myapi/
+
  |__ core/
+ 
  |    |__ migrations/
+ 
  |    |__ __init__.py
+ 
  |    |__ admin.py
+ 
  |    |__ apps.py
+ 
  |    |__ models.py
+ 
  |    |__ tests.py
+ 
  |    +__ views.py
+ 
  |__ __init__.py
+ 
  |__ settings.py
+ 
  |__ urls.py
+ 
  +__ wsgi.py
  
 
