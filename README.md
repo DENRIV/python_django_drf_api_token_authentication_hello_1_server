@@ -35,6 +35,7 @@ myapi/
  +__ wsgi.py
  
 
+[run]
 
 manage.py makemigrations
 
